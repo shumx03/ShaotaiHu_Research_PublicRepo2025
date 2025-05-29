@@ -1,2 +1,1 @@
-# ShaotaiHu_Research_PublicRepo2025
-## This repo contains code and all related work for my active/past research projects and labs.
+# Multi-Institutional Study on the Effect of Difference in Clinical Practices on a Bayesian Network Based Quality Assurance Tool.

@@ -1,2 +1,2 @@
-# ShaotaiHu_Research_PublicRepo2025
-## This repo contains code and all related work for my active/past research projects and labs.
+# AI Research Assistant in SMGAL Lab under Prof. Christopher Schmitt & Prof. Evelyn Pain
+## Content & Code in this directory are to demonstrate knowledge and skill. <br> <br> Some details are redacted for confidentiality. 

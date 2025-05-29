@@ -1,2 +1,2 @@
-# ShaotaiHu_Research_PublicRepo2025
-## This repo contains code and all related work for my active/past research projects and labs.
+# Course Projects
+## Content & Code in this directory are to demonstrate knowledge and skill. <br> <br> Some details are redacted for confidentiality. 

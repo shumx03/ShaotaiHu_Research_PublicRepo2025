@@ -1,2 +1,2 @@
-# AI Research Assistant under Prof. Samuel Luk, Radiation Oncology AI Research
-## Content & Code in this directory are to demonstrate knowledge and skill.
+# ShaotaiHu_Research_PublicRepo2025
+## This repo contains code and all related work for my active/past research projects and labs.
